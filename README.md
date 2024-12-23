@@ -1,16 +1,18 @@
-# api_cuaca_dea
+Nama : Dea Cipta Ningrum Aimanta Putri
+Kelas : 2A TRPL 
+NIM : 362358302147
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## PRAKTIKUM DAN TUGAS API
 
-A few resources to get you started if this is your first Flutter project:
+1. Mendapatkan Api key di OpenWeather
+   ![Screenshot (1390)](https://github.com/user-attachments/assets/6ffb9081-7487-4411-b42e-f1f9a6aeeaeb)
+2. Hasil Data Cuaca
+   ![Screenshot (1391)](https://github.com/user-attachments/assets/b806af23-445c-4f81-a55f-4f62f1570c04)
+3. Detail Cuaca saat button di klik
+   ![Screenshot (1393)](https://github.com/user-attachments/assets/008a29ca-4a82-4e92-9a16-0b9cda7b5dfb)
+4. Melakukan Pencarian
+   ![Screenshot (1394)](https://github.com/user-attachments/assets/6265984a-130e-4610-bb28-a20656d81899)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PENJELASAN KODE 
