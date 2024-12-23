@@ -26,7 +26,7 @@ class WeatherScreen extends StatefulWidget {
 }
 
 class _WeatherScreenState extends State<WeatherScreen> {
-  final String apiKey = '3a0a93abc0e173fbe501622d27cdbe1e'; // Replace with your OpenWeather API key
+  final String apiKey = '3a0a93abc0e173fbe501622d27cdbe1e'; \
   final List<String> cities = ['Yokohama', 'Tokyo', 'Kyoto', 'Osaka', 'Hiroshima', 'Saitama', 'Nagasaki', 'Tottori',];
   List<Map<String, dynamic>> weatherData = [];
   List<Map<String, dynamic>> filteredData = [];
